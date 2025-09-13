@@ -7,9 +7,9 @@ We used GovReport dataset for training HEADS. [Click](https://drive.google.com/d
 
 
 .
-![ROUGEscores](https://github.com/user-attachments/assets/f823cb84-ba98-431d-a0e4-743b0dc23ea2)
-.
-![Factcc_and_BERTScores](https://github.com/user-attachments/assets/d48e6d54-99d2-4800-9605-cd25533b6d11)
+Here is the comparision among HEADS and other state of the models
 
-
-
+![Picsart_25-09-06_09-53-46-468](https://github.com/user-attachments/assets/6e50879d-671a-42a3-b077-f970b9fce907)
+![Picsart_25-09-06_09-56-23-310](https://github.com/user-attachments/assets/ede34de2-05ce-41da-8670-48949d26a68f)
+![Picsart_25-09-06_09-57-46-929](https://github.com/user-attachments/assets/90715457-c1da-4b90-8e52-436ca72cc054)
+![Picsart_25-09-06_10-00-11-456](https://github.com/user-attachments/assets/7d89d87b-6188-4992-82a7-d7533c7e32eb)
