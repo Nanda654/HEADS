@@ -1,5 +1,5 @@
 # HEADS
-Extractive-Abstractive Document Summarization with Longformer
+Hybrid Extractive Abstractive Document Summarization
 
 This project presents a hybrid document summarization system that integrates extractive and abstractive techniques to produce factually accurate and linguistically coherent summaries of long documents. By leveraging the Longformer model’s ability to process extended sequences and combining it with the fluent text generation capabilities of a modified BART model, our approach addresses key challenges in summarization: extractive methods often produce disjointed outputs, while abstractive methods risk factual inaccuracies and struggle with lengthy inputs. Utilizing the GovReport dataset, we demonstrate significant improvements in summary quality, achieving higher ROUGE scores, better factual consistency, and enhanced semantic alignment compared to baseline models. Our system introduces a novel pipeline that extracts key sentences, transforms them into structured factual constraints, and guides abstractive generation, offering a scalable solution for summarizing complex, long-form documents such as government reports.
 
